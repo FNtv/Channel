@@ -20,7 +20,7 @@ http://syarman.hexat.com/INDONESIA%20HD/mnctv.m3u8
 http://tvnasional.mobie.in/M3U8/205.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20GTV.png?raw=true",GTV
 http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLNB4TFEZGvWpP-FAgnC8W7FesgHl8QIWZLpPEcK4ALi/ts
-#EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20ANTV.png?raw=true",ANTV
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20ANTV.png?raw=true" ,ANTV
 http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNniBY4rX3I7FjLbs-lVFe001xtE2xAmEPr27-OdlW0U/ts
 #EXTINF:-1 group-title="Lokal" tvg-logo="http://dusktill.masuk.web.id/img/tvone.png",tvOne
 http://210.210.155.35/qwr9ew/s/s105/02.m3u8
