@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/favicon.png?raw=true",FNtv-Channel
 https://youtu.be/koI7m3oAw2I
+
+
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/tuFUh0h-gokL4Xi8SIpwAypv8dY=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/a4981b.png",RTV
 http://210.210.155.35/session/08fb7806-059c-11e9-9d77-c81f66f89318/qwr9ew/s/s12/01.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040404.png",Trans7
@@ -13,6 +15,8 @@ http://platinumxmedia.xyz:8080/instaplayiptv/P3Zho2b5zf/13494
 http://syarman.hexat.com/INDONESIA%20HD/mnctv.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20Indosiar.png?raw=true",Indosiar
 http://tvnasional.mobie.in/M3U8/205.m3u8
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20GTV.png?raw=true",GTV
+http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLNB4TFEZGvWpP-FAgnC8W7FesgHl8QIWZLpPEcK4ALi/ts
 #EXTINF:-1 group-title="Lokal" tvg-logo="http://dusktill.masuk.web.id/img/tvone.png",tvOne
 http://210.210.155.35/qwr9ew/s/s105/02.m3u8
 #EXTINF:-1 group-title="Lokal",Elshinta TV
