@@ -14,7 +14,7 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 http://meu02.cularu.com:8880/Gambona/Qatani1234/60287
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20RCTI.png?raw=true",RCTI
 http://platinumxmedia.xyz:8080/instaplayiptv/P3Zho2b5zf/13494
-#EXTINF:-1 group-title="Lokal" tvg-logo="https://i.ibb.co/3Bk8qLp/20200225-084949.png",MNC TV (vision+)
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20MNCTV.png?raw=true",MNC TV
 http://syarman.hexat.com/INDONESIA%20HD/mnctv.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20Indosiar.png?raw=true",Indosiar
 http://tvnasional.mobie.in/M3U8/205.m3u8
