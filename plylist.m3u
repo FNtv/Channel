@@ -14,12 +14,14 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLNB4TFEZGvWpP-FAgnC8W4hGmDcxx-FmVmg5cYFG0nJ/ts
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20RCTI.png?raw=true",RCTI
 http://platinumxmedia.xyz:8080/instaplayiptv/P3Zho2b5zf/13494
-#EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20MNCTV.png?raw=true",MNC TV
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20MNCTV.png?raw=true",MNCTV
 http://syarman.hexat.com/INDONESIA%20HD/mnctv.m3u8
 #EXTINF:-1 group-title="Lokal" "tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20Indosiar.png?raw=true",Indosiar
 http://tvnasional.mobie.in/M3U8/205.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20GTV.png?raw=true",GTV
 http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLNB4TFEZGvWpP-FAgnC8W7FesgHl8QIWZLpPEcK4ALi/ts
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20ANTV.png?raw=true",ANTV
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="http://dusktill.masuk.web.id/img/tvone.png",tvOne
 http://210.210.155.35/qwr9ew/s/s105/02.m3u8
 #EXTINF:-1 group-title="Lokal",Elshinta TV
