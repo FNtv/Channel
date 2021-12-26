@@ -50,17 +50,16 @@ http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=0
 #EXTINF:-1 group-title="News" tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg",Reformed 21 (540p)
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png",TVRI Sport HD (720p)
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png",TVRI Sport HD (720p)
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-#EXTINF:-1 group-title="Sports",BeIN Sports Xtra
+#EXTINF:-1 group-title="SPORTS",BeIN Sports Xtra
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/X491SzR.gif",FOX Sports Australia
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/X491SzR.gif",FOX Sports Australia
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/17ec0fba-d4ec-4421-a665-c8dcab0f80ee-small3x1_TheTChannel.png",Tennis Channel HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/17ec0fba-d4ec-4421-a665-c8dcab0f80ee-small3x1_TheTChannel.png",Tennis Channel HD
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/pggeczF.jpg",World of Freesports (720p)
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/pggeczF.jpg",World of Freesports (720p)
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png",TVRI Sport HD (480p)
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://imgur.com/gallery/ceU4rq0",OneGolf
@@ -83,8 +82,6 @@ https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
 https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://imgur.com/gallery/ceU4rq0.png",ufc2
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://imgur.com/gallery/ceU4rq0.png",NowSportPrime
-http://livetv.dnsfor.me/channel.12.m3u8
 #EXTINF:-1 group-title="SPORTS",Galatasaray TV
 http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://imgur.com/gallery/ceU4rq0.png",RedBullTv
