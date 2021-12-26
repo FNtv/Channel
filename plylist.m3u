@@ -11,15 +11,15 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040459.png",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20SCTV.png?raw=true",SCTV
-https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
+http://210.210.155.35/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20RCTI.png?raw=true",RCTI
-http://platinumxmedia.xyz:8080/instaplayiptv/P3Zho2b5zf/13494
+http://syarman.hexat.com/INDONESIA%20HD/rcti.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20MNCTV.png?raw=true",MNCTV
 http://syarman.hexat.com/INDONESIA%20HD/mnctv.m3u8
 #EXTINF:-1 group-title="Lokal" "tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20Indosiar.png?raw=true",Indosiar
 http://tvnasional.mobie.in/M3U8/205.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20GTV.png?raw=true",GTV
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLNB4TFEZGvWpP-FAgnC8W7FesgHl8QIWZLpPEcK4ALi/ts
+http://syarman.hexat.com/INDONESIA%20HD/gtv.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20ANTV.png?raw=true",ANTV
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="http://dusktill.masuk.web.id/img/tvone.png",tvOne
