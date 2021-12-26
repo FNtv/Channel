@@ -154,6 +154,30 @@ http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
 #EXTINF:-1 group-title="WORLD" tvg-logo="https://i.imgur.com/tHopHL9.png",Beach TV - Pawleys Island
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 
+#EXTM3U
+#EXTINF:-1 group-title="KNOWLEDGE",CGTN DOCUMENTARY
+http://210.210.155.35:80/session/6e87599c-2ef3-11eb-b6b9-b82a72d63267/qwr9ew/s/s20/01.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",SILENCE TV
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.imgur.com/AiXXYZK.png?v=1.0.0.1",National Geographic Abu Dhabi
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",LOVE NATURE
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",DIGIONE MAXstream
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.dropbox.com/s/rhdxa0ingmn6o5p/TechStorm-R-Bold.png?dl=1",TECH Storm
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/05.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Poeple Awesome
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.imgur.com/x0XijCu.png?v=1.0.0.1",National Geographic HD
+https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.imgur.com/P9yiTz6.png?v=1.0.0.1",Nat Geo Wild HD
+https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+#EXTINF:-1 group-title="KNOWLEDGE",Bisnet Adventure 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Bisnet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+
 #EXTINF:-1 group-title="Musik",Prambors
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d2ddea18f00665ce8623e36bd4e3c7c5f93fb3c9879684db94f7af38b446022a
 #EXTINF:-1 group-title="Musik",MALEO TV
