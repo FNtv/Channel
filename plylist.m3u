@@ -47,7 +47,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TVRILogo2006.svg/100px-TVRILogo2006.svg.png",TVRI
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 group-title="News" tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg",Reformed 21 (540p)
+#EXTINF:-1 group-title="News" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20Reformed%2021.png?raw=true",Reformed 21
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png",TVRI Sport HD (720p)
