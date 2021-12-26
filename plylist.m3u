@@ -88,7 +88,7 @@ http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
 #EXTINF:-1 group-title="Movies",THRILL
 http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/r_hHy-0yyOqMWkG_USKHWkYIjvA=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6362/9869f1.png",TVN ID
-http://210.210.155.35:80/session/01bdbc8e-a40f-11eb-8209-c81f66f89318/dr9445/h/h20/01.m3u8
+http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8?id=eroz_brebes.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/zpi6mQ3.png",Animax Japan (Indonesian Subs)
 http://210.210.155.35/dr9445/h/h02/01.m3u8
