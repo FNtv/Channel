@@ -24,24 +24,24 @@ http://syarman.hexat.com/INDONESIA%20HD/gtv.m3u8
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="http://dusktill.masuk.web.id/img/tvone.png",tvOne
 http://210.210.155.35/qwr9ew/s/s105/02.m3u8
-#EXTINF:-1 group-title="Lokal",Elshinta TV
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20Elshinta.png?raw=true",Elshinta TV
 http://210.210.155.35/qwr9ew/s/s10/01.m3u8
-#EXTINF:-1 group-title="Lokal",Magna Channel
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20Magna%20Channel.png?raw=true",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://yt3.ggpht.com/a/AGF-l78XWRP1EECW9lR7AEtjzsHnDlbHWNWRzbIVzg=s900-c-k-c0xffffffff-no-rj-mo",Jawapos TV
 https://dl.dropbox.com/s/c5pe05bpznbafh3/Jawapos2.m3u8?dl=0
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1200px-JTV_%282012%29.svg.png",JTV
 https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
-#EXTINF:-1 group-title="Lokal",Indonesia Channel
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/logo_TIC.png?raw=true",Indonesia Channel
 http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png",RRI Net (720p) [Not 24/7]
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 
-#EXTINF:-1 group-title="News",BeritaSatu
+#EXTINF:-1 group-title="News" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20Berita%20Satu.png?raw=true",BeritaSatu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-#EXTINF:-1 group-title="News",CNN Indonesia
+#EXTINF:-1 group-title="News" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20CNN%20Indonesia.png?raw=true",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 group-title="News",CNBC Indonesia
+#EXTINF:-1 group-title="News"  tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/logo%20CNBC%20Indonesia.png?raw=true",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnirKe1g_4pl01j4ehYZiqa7vpv2ISq8iD_07QG3mUwquEecd6",Metro TV
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
