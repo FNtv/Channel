@@ -90,15 +90,14 @@ http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/r_hHy-0yyOqMWkG_USKHWkYIjvA=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6362/9869f1.png",TVN ID
 http://210.210.155.35:80/session/01bdbc8e-a40f-11eb-8209-c81f66f89318/dr9445/h/h20/01.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/zpi6mQ3.png",Animax Japan (Indonesian Subs)
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/zpi6mQ3.png",Animax Japan (Indonesian Subs)
 http://210.210.155.35/dr9445/h/h02/01.m3u8
-#EXTINF:-1 group-title="Kids",Aniplus
+#EXTINF:-1 group-title="KIDS",Aniplus
 http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8
-#EXTINF:-1 group-title="Kids",spacetoon
+#EXTINF:-1 group-title="KIDS",spacetoon
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="Kids",EBS
+#EXTINF:-1 group-title="KIDS",EBS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w2046056257.m3u8
-
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/9Bun2IX.png",Majid TV
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",EBS
