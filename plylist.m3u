@@ -181,19 +181,19 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ae5af8797b00095c07
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/KjD7BJBy/junior.png",Pluto TV Junior
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ecb336537e8000764a17f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="KNOWLEDG" tvg-logo="https://images.useetv.com/logo_nhkworld_big1.png?v=2.0.0.11",(ONLINE) NHK WORLD JAPAN
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://images.useetv.com/logo_nhkworld_big1.png?v=2.0.0.11",(ONLINE) NHK WORLD JAPAN
 http://45.126.83.51/uq2663/h/h23/index2.m3u8
-#EXTINF:-1 group-title="KNOWLEDG" tvg-logo="https://web-cdn.blivenyc.com/generic/mee.logo-golden-trans.png",AKC TV
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://web-cdn.blivenyc.com/generic/mee.logo-golden-trans.png",AKC TV
 https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-#EXTINF:-1 group-title="KNOWLEDG" tvg-logo="https://i.imgur.com/FLKdEzZ.png",America's Funniest Videos
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.imgur.com/FLKdEzZ.png",America's Funniest Videos
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 group-title="KNOWLEDG" tvg-logo="https://i.imgur.com/ENtRDds.png",American Horrors
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.imgur.com/ENtRDds.png",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 group-title="KNOWLEDG" tvg-logo="https://i.imgur.com/tHopHL9.png",Beach TV - 30A
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.imgur.com/tHopHL9.png",Beach TV - 30A
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
-#EXTINF:-1 group-title="KNOWLEDG" tvg-logo="https://i.imgur.com/tHopHL9.png",Beach TV - Panama City
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.imgur.com/tHopHL9.png",Beach TV - Panama City
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
-#EXTINF:-1 group-title="KNOWLEDG" tvg-logo="https://i.imgur.com/tHopHL9.png",Beach TV - Pawleys Island
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.imgur.com/tHopHL9.png",Beach TV - Pawleys Island
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE",CGTN DOCUMENTARY
 http://210.210.155.35:80/session/6e87599c-2ef3-11eb-b6b9-b82a72d63267/qwr9ew/s/s20/01.m3u8
