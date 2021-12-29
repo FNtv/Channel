@@ -21,7 +21,7 @@ http://syarman.hexat.com/INDONESIA%20HD/mnctv.m3u8
 http://202.80.222.182/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
 http://tvnasional.mobie.in/M3U8/205.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20GTV.png?raw=true",GTV
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+http://202.80.222.182:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
 http://syarman.hexat.com/INDONESIA%20HD/gtv.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20ANTV.png?raw=true",ANTV
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
