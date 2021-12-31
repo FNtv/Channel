@@ -17,7 +17,7 @@ https://fta.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20MNCTV.png?raw=true",MNCTV
 https://livetv01.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
 #EXTINF:-1 group-title="Lokal" "tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20Indosiar.png?raw=true",Indosiar
-https://github.com/FNtv/Channel/blob/07dbf664aaf9a8fdf8d0edc7635544dfe46d3b7f/File/Maintence.mp4
+https://github.com/FNtv/Channel/blob/main/File/Maintence.mp4?raw=true
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20GTV.png?raw=true",GTV
 https://link.zozotv.xyz:443/707070/707070/48
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20ANTV.png?raw=true",ANTV
