@@ -104,7 +104,7 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png",Celestial Movies
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+http://210.210.155.35:80/session/4ed7b0da-6aff-11ec-8c65-b82a72d63267/dr9445/h/h14/01.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20My%20Cinema%20Europa.png?raw=true",MyCinema  Europe
 http://rr.dens.tv/h/h18/01.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20MYCinema.png?raw=true",MyCinema
