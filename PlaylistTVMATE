@@ -217,55 +217,27 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-43
 #EXTINF: -1, group-title="KNOWLEDGE",LOVE NATURE
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="" group-title="KIDS",CARTOON NETWORK
-http://stream.tvtap.live:8081/live/us-cartoon.stream/playlist.m3u8
-#EXTINF: -1, group-title="KIDS", TOONEE
-http://61.19.242.134/feed/202105171329/LC23/index.m3u8
+
 #EXTINF: -1, group-title="KIDS",CARTON CLUB
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
 http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8
-#EXTINF: -1, group-title="KIDS", ZOO MOO
-http://61.19.242.134/feed/202105171329/LC38/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KIDS",Aniplus
-http://playlist.urfan.web.id/dr9445/h/h02/01.m3u8
-http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8
-EXTINF:-1 group-title="KIDS",DISNEY JUNIOR
-http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
-EXTINF:-1 group-title="KIDS",ANIMAX
-http://playlist.urfan.web.id/dr9445/h/h144/01.m3u8
-https://link.zozotv.xyz:443/@suhadaahmad12/9966T/13
-#EXTINF:-1 group-title="KIDS",Nicklodeon
-http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
-EXTINF:-1 group-title="KIDS",Boomerang
-http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 #EXTINF:-1 group-title="KIDS",spacetoon
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1596438578.m3u8
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",ToonMax
-http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
-http://185.180.221.194:8278/streams/d/Boomerang/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",EBS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w2046056257.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3xd7pLyQ/Minimini-HD.png" group-title="KIDS",minimini
-http://207.110.52.61:8080/s/hls/5/8668/minimini_258/1/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLxwmncr/cute.png" group-title="KIDS",Cute Zone (Bumblebee)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90RWBj9z/LETOON.png" group-title="KIDS",Lego Toons
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Bun2IX.png" group-title="KIDS",Majid TV
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzVk9YN4/MUNKID.png" group-title="KIDS",Mondo Kids
-https://mondotv-mondotvkids-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/q7xz5n7n/circle-190x190.png" group-title="KIDS",Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",boomerang
-http://61.19.242.134/feed/202105171329/chboomberang/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pd758jst/shemaroo.png" group-title="KIDS",Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCL0pN3H/Super-Toons.png" group-title="KIDS",Supertoons
-https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/J7ZDhXYq/color-Logo-PNG.png" ,After School Cartoons
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/Cx47Z1JZ/Pw.png" ,pocket.watch
@@ -294,40 +266,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2e
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #XTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/KjD7BJBy/junior.png" ,Pluto TV Junior
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ecb336537e8000764a17f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="KIDS" tvg-logo = "https://www.dropbox.com/s/8aibyc7bn6fslnv/cartoon%20network.png?dl=1", Cartoon Network
-http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
-#EXTINF:-1 group-title="KIDS"  tvg-logo="https://i.imgur.com/dlL02Rv.png" , Sonic Nickeloden
-http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
-#EXTINF:-1 group-title="KIDS"   tvg-logo="https://i.imgur.com/i5J3zrE.png" , Pogo
-http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
-#EXTINF:-1 tvg-id="Nick Jr.my" tvg-name="Nick Jr" tvg-logo="https://i.postimg.cc/zvkK0QqQ/download-97.png" group-title="KIDS", Nick Jr
-http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
-#EXTINF:-1 tvg-id="BabyTv.my" tvg-name="BabyTv" tvg-logo="https://i.postimg.cc/PfLqy95v/download-2021-09-07-T021724-154.jpg" group-title="KIDS", Baby Tv
-http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
-#EXTINF:-1, group-title="KIDS",DISNEY+
-http://wagmaott.com:8080/mag00:1A:79:5D:DE:88/HJrS2MNuDf/3891
-#EXTINF:-1, group-title="KIDS",DISNEY CHANNEL
-http://wagmaott.com:8080/mag00:1A:79:5D:DE:88/HJrS2MNuDf/3892
-#EXTINF:-1, group-title="KIDS",DISNEY CHANNEL+1
-http://wagmaott.com:8080/mag00:1A:79:5D:DE:88/HJrS2MNuDf/3893
-#EXTINF:-1, group-title="KIDS",DISNEY JUNIOR
-http://wagmaott.com:8080/mag00:1A:79:5D:DE:88/HJrS2MNuDf/3894
-#EXTINF:-1, group-title="KIDS",BOOMERANG
-http://wagmaott.com:8080/mag00:1A:79:5D:DE:88/HJrS2MNuDf/3895
-#EXTINF:-1, group-title="KIDS",NICKELODEON
-http://wagmaott.com:8080/mag00:1A:79:5D:DE:88/HJrS2MNuDf/3896
-#EXTINF:-1, group-title="KIDS",NICKELODEON +1 HD
-http://wagmaott.com:8080/mag00:1A:79:5D:DE:88/HJrS2MNuDf/3897
-#EXTINF:-1, group-title="KIDS",NICKELODEON JUNIOR
-http://wagmaott.com:8080/mag00:1A:79:5D:DE:88/HJrS2MNuDf/3898
-#EXTINF:-1, group-title="KIDS",NICKELODEON 4 TEEN HD
-http://wagmaott.com:8080/mag00:1A:79:5D:DE:88/HJrS2MNuDf/3899
-#EXTINF:-1, group-title="KIDS",CARTOON NETWORK
-http://wagmaott.com:8080/mag00:1A:79:5D:DE:88/HJrS2MNuDf/3900
-#EXTINF:-1, group-title="KIDS",TELETOON+
-http://wagmaott.com:8080/mag00:1A:79:5D:DE:88/HJrS2MNuDf/3901
-#EXTINF:-1, group-title="KIDS",TELETOON +1
-http://wagmaott.com:8080/mag00:1A:79:5D:DE:88/HJrS2MNuDf/3902
+
 
 #EXTIBF:-1 tvg-id="HBO" tvg-logo="https://i.postimg.cc/7Y8kpKrf/HBO.png" group-title="MOVIES",HBO HD
 http://iptv.tvmalaysia.cc:80/989898/989898/7067
