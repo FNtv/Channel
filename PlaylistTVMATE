@@ -161,12 +161,8 @@ http://210.210.155.35:80/session/c6731b1a-2ef2-11eb-94e7-b82a72d63267/qwr9ew/s/s
 #EXTINF:-1 tvg-id="Arirang Tv English " tvg-logo="http://arirang.com/images/index/arirang.png" group-title="ENTERTAINMENT" ,Arirang TV English
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.postimg.cc/6pmgbvBg/MNC-News.png",MNC News
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-https://liveanevia.mncnow.id/live/eds/MNCNews/sa_dash_vmx/MNCNews.mpd
-#EXTINF:-1 group-title="NEWS"tvg-logo="https://www.dropbox.com/s/z7zz5p9lj9imzqy/atv.png?dl=1", Atv
-http://stream1.ninmedia.tv:1935/atv/udp.stream/chunklist_w465987392.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/44KLbhqk/DW.png" group-title="NEWS", DW 
 http://210.210.155.35/session/7f2da0d2-b048-11ea-8803-b72ca503ea48/qwr9ew/s/s26/02.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.postimg.cc/NMPFMtnD/arise.png",Arise News
@@ -193,8 +189,6 @@ http://playlist.urfan.web.id/uq2663/h/h156/S4/mnf.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.postimg.cc/dQk11jGc/cbsn.png",CBSN
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QtH0rxh/sky.png" group-title="NEWS",Sky News
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 #EXTINF:-1 group-title="NEWS" tvg-logo = "https://www.dropbox.com/s/7oj0h2ezjt801cm/aljazeera.png?dl=1", Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.dropbox.com/s/ar27sqossac2wto/Jakarta_globe_news_channel_id.png?dl=1", Jakarta globe
