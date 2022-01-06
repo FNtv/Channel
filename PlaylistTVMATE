@@ -118,14 +118,10 @@ http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",GEM
 http://210.210.155.35:80/uq2663/h/h19/01.m3u8
 http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",Wakuwaku
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065986
 #EXTINF:-1 tvg-id="Blue Ant Extreme" tvg-name="Blue Ant Extreme" tvg-logo="https://i.postimg.cc/s29DxMj3/images-6.png" , group-title="ENTERTAINMENT", Blue Ant Extreme
 http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo = "https://mantul.org/logo/blueant.png", Blue Ant Entertainment
 http://playlist.urfan.web.id/dr9445/h/h16/01.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",AXN
-http://221.120.204.4/AXN-LOCKLE/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",TVNMOVIES
 http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",KIX
@@ -136,8 +132,6 @@ http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
 http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",Blue Ant Extreme
 http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",CELESTIALMOVIES
-http://playlist.urfan.web.id/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",CINEMAWOLRD
 http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",ZEEBIOSKOP
@@ -146,8 +140,6 @@ http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
 http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",EggNet
 http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",OH!K TV
-http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://kamiselaluada.com/img/blueantextreme.png",Blue Ant Extreme
 http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://kamiselaluada.com/img/kplus.png",K+
@@ -166,16 +158,6 @@ https://cdn.hkdtmb.com/hls/99/index.m3u8
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=tv5monde
 http://210.210.155.35:80/session/c6731b1a-2ef2-11eb-94e7-b82a72d63267/qwr9ew/s/s24/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hBq7Xwg/download-2021-09-07-T031405-569.png" group-title="ENTERTAINMENT" , Formosa
-http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1 tvg-id="kbsworld" tvg-logo="https://i.postimg.cc/44wFpMr4/logo-kbsw-orld-small.png" group-title="ENTERTAINMENT",KBS WORLD 
-https://fikrulmkc.my.id/bagus/usee-kbsworld.m3u8
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/y8YwtRZK/ZQTV.png" group-title="ENTERTAINMENT",ZQ DRAMA
-http://iptv.zqstream.com/zqdrama-gen/video.m3u8
-https://six1.zqprem.com/ZQDrama-app/index.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="ENTERTAINMENT", TLC SD Hindi
-http://idvd.multitvsolution.com/idvo/tlchindi.m3u8
 #EXTINF:-1 tvg-id="Arirang Tv English " tvg-logo="http://arirang.com/images/index/arirang.png" group-title="ENTERTAINMENT" ,Arirang TV English
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
