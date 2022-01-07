@@ -330,33 +330,3 @@ https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MUSIC",TVIKIM
 http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
 
-#EXTINF:-1cgroup-title="FOX SPORT" tvg-logo="https://imgur.com/gallery/ceU4rq0.png", Fox Sports 1 HD
-http://ingrid.ltd:25461/jfso/BXVhhKh5/5505
-#EXTINF:-1 group-title="FOX SPORT" tvg-logo="https://imgur.com/gallery/ceU4rq0.png",FOX SPORTS 1 FULLHD
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31155?checkedby:iptvcat.com
-#EXTINF:-1, group-title="FOX SPORT" tvg-logo="https://imgur.com/gallery/ceU4rq0.png", Fox Sports 2 HD
-http://ingrid.ltd:25461/jfso/BXVhhKh5/5506
-#EXTINF:-1, group-title="FOX SPORT" tvg-logo="https://imgur.com/gallery/ceU4rq0.png",FOX Sports Pluto HD
-http://ingrid.ltd:25461/jfso/BXVhhKh5/164785
-#EXTINF:-1, group-title="FOX SPORT" tvg-logo="https://imgur.com/gallery/ceU4rq0.png",Fox Sports Arizona Plus HD
-http://ingrid.ltd:25461/jfso/BXVhhKh5/164918
-#EXTINF:-1, group-title="FOX SPORT" tvg-logo="https://imgur.com/gallery/ceU4rq0.png",Fox Sports Detroit Plus HD
-http://ingrid.ltd:25461/jfso/BXVhhKh5/164920
-#EXTINF:-1, group-title="FOX SPORT" tvg-logo="https://imgur.com/gallery/ceU4rq0.png",Bally Sports Florida South HD
-http://ingrid.ltd:25461/jfso/BXVhhKh5/5943
-#EXTINF:-1, group-title="FOX SPORT" tvg-logo="https://imgur.com/gallery/ceU4rq0.png",Fox Sports Sun HD South
-http://ingrid.ltd:25461/jfso/BXVhhKh5/164208
-#EXTINF:-1, group-title="FOX SPORT" tvg-logo="https://imgur.com/gallery/ceU4rq0.png",Fox Sports Indiana HD
-http://ingrid.ltd:25461/jfso/BXVhhKh5/164921
-#EXTINF:-1, group-title="FOX SPORT" tvg-logo="https://imgur.com/gallery/ceU4rq0.png",Fox Sports Indiana Plus HD
-http://ingrid.ltd:25461/jfso/BXVhhKh5/19645
-#EXTINF:-1, group-title="FOX SPORT" tvg-logo="https://imgur.com/gallery/ceU4rq0.png", Fox Sports Midwest HD
-http://ingrid.ltd:25461/jfso/BXVhhKh5/6031
-#EXTINF:-1, group-title="FOX SPORT" tvg-logo="https://imgur.com/gallery/ceU4rq0.png",Fox Sports Southwest HD
-http://ingrid.ltd:25461/jfso/BXVhhKh5/5940
-#EXTINF:-1, group-title="FOX SPORT" tvg-logo="https://imgur.com/gallery/ceU4rq0.png",Fox Sports Southwest+ HD
-http://ingrid.ltd:25461/jfso/BXVhhKh5/6018
-#EXTINF:-1, group-title="FOX SPORT" tvg-logo="https://imgur.com/gallery/ceU4rq0.png",Fox Sports Yes Network HD
-http://ingrid.ltd:25461/jfso/BXVhhKh5/6043
-#EXTINF:-1, group-title="FOX SPORT" tvg-logo="https://imgur.com/gallery/ceU4rq0.png",Fox Sports Detroit Plus HD
-http://ingrid.ltd:25461/jfso/BXVhhKh5/164920
